@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "information": "Scorpions are a German rock band formed in 1965 in Hanover by Rudolf Schenker. Since the band's inception, its musical style has ranged from hard rock to heavy metal. The lineup from 1978–92 was the most successful incarnation of the group, and included Klaus Meine (vocals), Rudolf Schenker (rhythm guitar), Matthias Jabs (lead guitar), Francis Buchholz (bass guitar), and Herman Rarebell (drums). The band's only constant member has been Schenker, although Meine has been the lead singer for all of the band's studio albums, and Jabs has been a consistent member since 1979.",
+        "name": "Scorpions",
+        "songs": [
+            {
+                "id": 39,
+                "name": "Bad Boys Running Wild",
+		"url": "/media/audio/Scorpions__Bad_Boys_Running_Wild.mp3"
+            },
+            {
+                "id": 1,
+                "name": "Rock you like a hurricane",
+		"url": "/media/audio/Scorpions__Rock_You_Like_a_Hurricane_%D0%92._Zaharov.mp3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "information": "Metallica is an American heavy metal band formed in Los Angeles, California. The band was formed in 1981 when vocalist/guitarist James Hetfield responded to an advertisement posted by drummer Lars Ulrich in a local newspaper. Metallica's current line-up comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+        "name": "Metallica",
+        "songs": [
+            {
+                "id": 3,
+                "name": "Enter Sandman",
+            	"url": "/media/Metallica%20%E2%80%93%20Enter%20Sandman.mp3"
+            },
+            {
+                "id": 2,
+                "name": "The Unforgiven II",
+            	"url": "/media/Metallica%20%E2%80%93%20The%20Unforgiven%20II.mp3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "information": "Guns N' Roses are an American hard rock band from Los Angeles formed in 1985. Their classic lineup, as signed to Geffen Records in 1986, consisted of lead singer Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler. The current lineup consists of Rose, Slash, McKagan, keyboardists Dizzy Reed and Melissa Reese, guitarist Richard Fortus and drummer Frank Ferrer. The band has released six studio albums, accumulating sales of more than 100 million records worldwide, including shipments of 45 million in the United States, making Guns N' Roses one of the world's best-selling bands of all time.",
+        "name": "Guns 'n Roses",
+        "songs": [
+            {
+                "id": 4,
+                "name": "Nightrain",
+		"url": "/media/audio/Guns_N_Roses__Nightrain.mp3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "information": "Green Day is an American punk rock band formed in 1986 by lead vocalist and guitarist Billie Joe Armstrong and bassist Mike Dirnt. For much of the group's career, the band has been a trio with drummer Tre Cool, who replaced former drummer John Kiffmeyer in 1990 prior to the recording of the band's second studio album, Kerplunk (1991). In 2012, guitarist Jason White became an official member after having performed with the band as a touring member since 1999.",
+        "name": "Green Day",
+        "songs": [
+            {
+                "id": 5,
+                "name": "Viva la Gloria",
+		"url": "/media/audio/Green_Day___Viva_la_Gloria.mp3"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "information": "Sum 41 is a rock band from Ajax, Ontario, Canada. Originally called Kaspir, the band formed in 1996 and currently consists of lead vocalist/rhythm guitarist/keyboardist Deryck Bizzy D Whibley, lead guitarist/backup vocalist Dave Brownsound Baksh, lead and rhythm guitarist/keyboardist/backup vocalist Tom Brown Tom Thacker, bassist/backing vocalist Jason Cone McCaslin and drummer Frank Zummo.",
+        "name": "Sum 41",
+        "songs": [
+            {
+                "id": 6,
+                "name": "The Hell Song",
+            	"url": "/media/audio/Sum_41__The_Hell_Song.mp3"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "information": "Slipknot is an American heavy metal band from Des Moines, Iowa. The band was founded in September 1995 by percussionist Shawn Crahan and bassist Paul Gray. After several lineup changes in its early years, the band settled on nine members for more than a decade: Corey Taylor, Mick Thomson, Jim Root, Paul Gray, Craig Jones, Sid Wilson, Shawn Crahan, Chris Fehn and Joey Jordison. Gray died on May 24, 2010, and was replaced from 2011–14 by former guitarist Donnie Steele. Jordison left the band on December 12, 2013. Steele left during the recording sessions for .5: The Gray Chapter because he wanted to focus on his marriage. The band is now touring with replacement musicians Alessandro Venturella on bass and Jay Weinberg on drums. After the departure of Jordison, as of December 2015 the only founding member in the current lineup is percussionist Shawn Crahan; the other remaining members of Slipknot have been members since the release of the band's 1999 eponymous debut.",
+        "name": "Slipknot",
+        "songs": [
+            {
+                "id": 40,
+                "name": "Duality",
+            	"url": "/media/audio/Slipknot__Duality.mp3"
+            }
+        ]
+    }
+]

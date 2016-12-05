@@ -1,0 +1,92 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Playlist</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../static/css/min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+       <script src="../static/js/jquery.js"></script>
+  <script src="../static/js/bootstrap.min.js"></script>
+  </head>
+
+  <body>
+    <div class="header">
+      <ul class="nav nav-pills pull-right small">
+
+        <li><a href="../wall.html">Home</a></li>
+          <li><a href="../audio.html">Playlist</a></li>
+
+
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+          <li><a href="logout">Logout</a> </li>
+        <li><form class="navbar-form navbar-left" role="search" action="search" method="get">
+          <div class="form-group form-group-sm">
+            <input type="text" class="form-control" placeholder="Search" name="search">
+          </div>
+          <button type="submit" class="btn btn-default btn-sm">Search..</button>
+        </form></li>
+      </ul>
+      <h3 class="text-muted logo"><img src="../static/img/logo_grey.png">Na-na-na</h3>
+    </div>
+    <div class="container">
+        <h2>Metallica</h2>
+      <div class="row marketing">
+          <h2>Compositions</h2>
+        <div class="col-lg-12">
+
+            <div class="post">
+                <h4 style="display: inline-block; vertical-align: top;">Enter Sandman</h4>
+
+                <audio src="/media/Metallica%20%E2%80%93%20Enter%20Sandman.mp3" controls class="pull-right">Your browser don't support audio!</audio>
+
+
+                <hr>
+            </div>
+
+            <div class="post">
+                <h4 style="display: inline-block; vertical-align: top;">The Unforgiven II</h4>
+
+                <audio src="../media/Metallica%20%E2%80%93%20The%20Unforgiven%20II.mp3" controls class="pull-right">Your browser don't support audio!</audio>
+
+
+                    <form class="pull-right" role="form" method="post">
+                        <input type="hidden" name = "add" value="2">
+                        <button class="btn pull-right" type="submit">+
+                        </button>
+                    </form>
+
+                <hr>
+            </div>
+
+
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>&copy; by Tosha 2016</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>
